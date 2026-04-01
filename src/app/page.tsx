@@ -86,7 +86,7 @@ export default function LandingPage() {
         {
           text: "Visit Us Today",          href: "#contact"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-restaurant-coffee-shop-cafe_1203-8565.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/abstract-blur-restaurant-coffee-shop-cafe_1203-8565.jpg?_wi=1"
       imageAlt="Slice and Ice atmosphere"
     />
   </div>
@@ -99,13 +99,13 @@ export default function LandingPage() {
       useInvertedBackground={true}
       products={[
         {
-          id: "p1",          name: "Classic Margherita",          price: "Fresh",          variant: "Pizza",          imageSrc: "http://img.b2bpic.net/free-photo/baking-delicious-pizza-with-wood-fired-oven_23-2150134253.jpg"},
+          id: "p1",          name: "Classic Margherita",          price: "Fresh",          variant: "Pizza",          imageSrc: "http://img.b2bpic.net/free-photo/baking-delicious-pizza-with-wood-fired-oven_23-2150134253.jpg?_wi=1"},
         {
-          id: "p2",          name: "Signature Shaved Ice",          price: "Cool",          variant: "Dessert",          imageSrc: "http://img.b2bpic.net/free-photo/bowl-pomegranate-arils-with-sliced-onion_114579-86244.jpg"},
+          id: "p2",          name: "Signature Shaved Ice",          price: "Cool",          variant: "Dessert",          imageSrc: "http://img.b2bpic.net/free-photo/bowl-pomegranate-arils-with-sliced-onion_114579-86244.jpg?_wi=1"},
         {
-          id: "p3",          name: "Pepperoni Feast",          price: "Savory",          variant: "Pizza",          imageSrc: "http://img.b2bpic.net/free-photo/baking-delicious-pizza-with-wood-fired-oven_23-2150134253.jpg"},
+          id: "p3",          name: "Pepperoni Feast",          price: "Savory",          variant: "Pizza",          imageSrc: "http://img.b2bpic.net/free-photo/baking-delicious-pizza-with-wood-fired-oven_23-2150134253.jpg?_wi=2"},
         {
-          id: "p4",          name: "Tropical Blast",          price: "Sweet",          variant: "Frozen Treat",          imageSrc: "http://img.b2bpic.net/free-photo/bowl-pomegranate-arils-with-sliced-onion_114579-86244.jpg"},
+          id: "p4",          name: "Tropical Blast",          price: "Sweet",          variant: "Frozen Treat",          imageSrc: "http://img.b2bpic.net/free-photo/bowl-pomegranate-arils-with-sliced-onion_114579-86244.jpg?_wi=2"},
       ]}
       title="Menu Highlights"
       description="Hand-crafted pizzas and icy desserts designed for every appetite."
@@ -132,7 +132,7 @@ export default function LandingPage() {
         },
         {
           id: "f3",          title: "Hot & Cold",          description: "Dinner and dessert in one convenient, delicious stop.",          media: {
-            imageSrc: "http://img.b2bpic.net/free-photo/abstract-blur-restaurant-coffee-shop-cafe_1203-8565.jpg"},
+            imageSrc: "http://img.b2bpic.net/free-photo/abstract-blur-restaurant-coffee-shop-cafe_1203-8565.jpg?_wi=2"},
           items: [],
           reverse: false,
         },
@@ -149,15 +149,15 @@ export default function LandingPage() {
       useInvertedBackground={true}
       testimonials={[
         {
-          id: "t1",          name: "Sarah Miller",          handle: "Local Mom",          testimonial: "The kids love the shaved ice! The pizza is fresh and perfect for a quick family dinner.",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-beautiful-brown-haired-woman-showing-thumb-up-lady-looking-camera_1262-14383.jpg"},
+          id: "t1",          name: "Sarah Miller",          handle: "Local Mom",          testimonial: "The kids love the shaved ice! The pizza is fresh and perfect for a quick family dinner.",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-beautiful-brown-haired-woman-showing-thumb-up-lady-looking-camera_1262-14383.jpg?_wi=1"},
         {
-          id: "t2",          name: "Jason Reed",          handle: "Student",          testimonial: "Best spot to hang out after class. Great prices and even better treats.",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-boy-eating-spaghetti_23-2148910384.jpg"},
+          id: "t2",          name: "Jason Reed",          handle: "Student",          testimonial: "Best spot to hang out after class. Great prices and even better treats.",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-boy-eating-spaghetti_23-2148910384.jpg?_wi=1"},
         {
           id: "t3",          name: "The Garcia Family",          handle: "Loyal Customers",          testimonial: "We come here every weekend. It's the highlight of our family time!",          imageSrc: "http://img.b2bpic.net/free-photo/front-view-woman-eating-pizza_23-2151231286.jpg"},
         {
-          id: "t4",          name: "Emily Chen",          handle: "Pizza Fan",          testimonial: "The pepperoni is fantastic. Plus, the atmosphere is just so welcoming and fun.",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-beautiful-brown-haired-woman-showing-thumb-up-lady-looking-camera_1262-14383.jpg"},
+          id: "t4",          name: "Emily Chen",          handle: "Pizza Fan",          testimonial: "The pepperoni is fantastic. Plus, the atmosphere is just so welcoming and fun.",          imageSrc: "http://img.b2bpic.net/free-photo/smiling-beautiful-brown-haired-woman-showing-thumb-up-lady-looking-camera_1262-14383.jpg?_wi=2"},
         {
-          id: "t5",          name: "Mark Johnson",          handle: "Tucson Resident",          testimonial: "An absolute gem in the neighborhood! The kids beg to come here every single weekend.",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-boy-eating-spaghetti_23-2148910384.jpg"},
+          id: "t5",          name: "Mark Johnson",          handle: "Tucson Resident",          testimonial: "An absolute gem in the neighborhood! The kids beg to come here every single weekend.",          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-boy-eating-spaghetti_23-2148910384.jpg?_wi=2"},
       ]}
       title="What Our Neighbors Say"
       description="Real feedback from the Tucson community we love serving."
