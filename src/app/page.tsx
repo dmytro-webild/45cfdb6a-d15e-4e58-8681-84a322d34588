@@ -72,8 +72,7 @@ export default function LandingPage() {
         {
           id: "3",          value: "Cool",          description: "Over 20 flavors of shaved ice."},
         {
-          id: "4",          value: "Local",          description: "Proudly serving the Tucson area."},
-      ]}
+          id: "4",          value: "Local",          description: "Proudly serving the Tucson area."},n      ]}
       metricsAnimation="slide-up"
       tag="Our Commitment"
     />
@@ -101,13 +100,13 @@ export default function LandingPage() {
       useInvertedBackground={true}
       products={[
         {
-          id: "p1",          name: "Classic Margherita",          price: "Fresh",          variant: "Pizza",          imageSrc: "http://img.b2bpic.net/free-photo/baking-delicious-pizza-with-wood-fired-oven_23-2150134253.jpg?_wi=1"},
+          id: "p1",          name: "Classic Margherita",          price: "$14.99",          variant: "Pizza",          imageSrc: "http://img.b2bpic.net/free-photo/baking-delicious-pizza-with-wood-fired-oven_23-2150134253.jpg?_wi=1"},
         {
-          id: "p2",          name: "Signature Shaved Ice",          price: "Cool",          variant: "Dessert",          imageSrc: "http://img.b2bpic.net/free-photo/bowl-pomegranate-arils-with-sliced-onion_114579-86244.jpg?_wi=1"},
+          id: "p2",          name: "Signature Shaved Ice",          price: "$5.99",          variant: "Dessert",          imageSrc: "http://img.b2bpic.net/free-photo/bowl-pomegranate-arils-with-sliced-onion_114579-86244.jpg?_wi=1"},
         {
-          id: "p3",          name: "Pepperoni Feast",          price: "Savory",          variant: "Pizza",          imageSrc: "http://img.b2bpic.net/free-photo/baking-delicious-pizza-with-wood-fired-oven_23-2150134253.jpg?_wi=2"},
+          id: "p3",          name: "Pepperoni Feast",          price: "$16.49",          variant: "Pizza",          imageSrc: "http://img.b2bpic.net/free-photo/baking-delicious-pizza-with-wood-fired-oven_23-2150134253.jpg?_wi=2"},
         {
-          id: "p4",          name: "Tropical Blast",          price: "Sweet",          variant: "Frozen Treat",          imageSrc: "http://img.b2bpic.net/free-photo/bowl-pomegranate-arils-with-sliced-onion_114579-86244.jpg?_wi=2"},
+          id: "p4",          name: "Tropical Blast",          price: "$6.99",          variant: "Frozen Treat",          imageSrc: "http://img.b2bpic.net/free-photo/bowl-pomegranate-arils-with-sliced-onion_114579-86244.jpg?_wi=2"},
       ]}
       title="Menu Highlights"
       description="Hand-crafted pizzas and icy desserts designed for every appetite."
