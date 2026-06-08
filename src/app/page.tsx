@@ -72,7 +72,8 @@ export default function LandingPage() {
         {
           id: "3",          value: "Cool",          description: "Over 20 flavors of shaved ice."},
         {
-          id: "4",          value: "Local",          description: "Proudly serving the Tucson area."},n      ]}
+          id: "4",          value: "Local",          description: "Proudly serving the Tucson area."}
+      ]}
       metricsAnimation="slide-up"
       tag="Our Commitment"
     />
