@@ -98,6 +98,7 @@ export default function RealEstateEducationPage() {
             title="Foundational Knowledge"
             description="Master the core concepts before diving deep into specialized areas of real estate."
             useInvertedBackground={true}
+            textboxLayout="default"
           >
             <div className="p-6 bg-card rounded-lg shadow-md">
               <h3 className="text-xl font-semibold mb-2 flex items-center gap-2"><Lightbulb className="text-accent" /> Understanding Real Estate Markets</h3>
@@ -127,6 +128,7 @@ export default function RealEstateEducationPage() {
             title="Step-by-Step Learning Areas"
             description="A structured curriculum to guide you from beginner to seasoned professional, covering all aspects of the industry."
             useInvertedBackground={false}
+            textboxLayout="default"
           >
             <div className="p-6 bg-card rounded-lg shadow-md">
               <h3 className="text-xl font-semibold mb-2 flex items-center gap-2"><GraduationCap className="text-accent" /> Getting Your License</h3>
@@ -157,6 +159,7 @@ export default function RealEstateEducationPage() {
             useInvertedBackground={true}
             title="Aggregated Resources & FAQs"
             description="Find answers to common questions and access valuable tools to support your real estate journey."
+            textboxLayout="default"
             faqs={[
               {
                 id: "faq1",                title: "What are the first steps to become a real estate agent?",                content: "Typically, you need to complete pre-licensing education, pass a state exam, and find a sponsoring broker. Requirements vary by state."
