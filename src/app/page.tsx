@@ -35,6 +35,8 @@ export default function LandingPage() {
         {
           name: "About",          id: "about"},
         {
+          name: "Education",          id: "/real-estate-education"},
+        {
           name: "Visit",          id: "contact"},
       ]}
       brandName="Slice and Ice"
@@ -181,11 +183,13 @@ export default function LandingPage() {
         {
           title: "Slice and Ice",          items: [
             {
-              label: "Menu",              href: "#menu"},
+              label: "Menu",              href: "/#menu"},
             {
-              label: "About Us",              href: "#about"},
+              label: "About Us",              href: "/#about"},
             {
-              label: "Contact",              href: "#contact"},
+              label: "Education",              href: "/real-estate-education"},
+            {
+              label: "Contact",              href: "/#contact"},
           ],
         },
         {
